@@ -4,7 +4,7 @@
 
 A stylish [css module](https://github.com/css-modules/css-modules) compatible block loader...
 
-![](https://github.com/StevenIseki/css-block-loader/blob/master/css-block-loader/screenshot.png)
+![](https://raw.githubusercontent.com/StevenIseki/css-block-loader/master/screenshot.png)
 
 ## Compatible
 
