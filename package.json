@@ -1,0 +1,22 @@
+{
+  "name": "css-block-loader",
+  "version": "1.0.0",
+  "description": "a stylish css module block loader...",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/css-block-loader.git"
+  },
+  "keywords": [
+    "css",
+    "css-module",
+    "css module",
+    "css block loader",
+    "css-block-loader",
+    "css block loader css module",
+    "react",
+    "reactjs"
+  ],
+  "author": "Steven Iseki <stevenisekimartin@gmail.com>",
+  "license": "MIT"
+}
