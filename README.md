@@ -4,7 +4,12 @@
 
 A stylish [css module](https://github.com/css-modules/css-modules) compatible block loader...
 
-Best to use this with [react-css-modules](https://github.com/gajus/react-css-modules)
+![](https://github.com/StevenIseki/css-block-loader/blob/master/css-block-loader/screenshot.png)
+
+## Compatible
+
+- [react-css-modules](https://github.com/gajus/react-css-modules)
+- [css modules](https://github.com/css-modules/css-modules)
 
 ## Install
 
