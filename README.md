@@ -1,6 +1,6 @@
 # css-block-loader
 
-[![npm version](https://badge.fury.io/js/css-video-wrap.svg)](https://badge.fury.io/js/css-video-wrap)
+[![npm version](https://badge.fury.io/js/css-block-loader.svg)](https://badge.fury.io/js/css-block-loader)
 
 A stylish [css module](https://github.com/css-modules/css-modules) compatible block loader...
 
@@ -8,8 +8,8 @@ A stylish [css module](https://github.com/css-modules/css-modules) compatible bl
 
 ## Compatible
 
-- [react-css-modules](https://github.com/gajus/react-css-modules)
 - [css modules](https://github.com/css-modules/css-modules)
+- [react-css-modules](https://github.com/gajus/react-css-modules)
 
 ## Install
 
