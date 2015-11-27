@@ -1,6 +1,6 @@
 {
   "name": "css-block-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a stylish css module block loader...",
   "main": "index.js",
   "repository": {
