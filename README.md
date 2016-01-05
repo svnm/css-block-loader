@@ -17,9 +17,12 @@ A stylish [css module](https://github.com/css-modules/css-modules) compatible bl
 
 ## Usage
 
-Simply import the block loader css module and use it as your loader
+Simply import the block loader css module and use it as your loader, assign to your components' styles object:
 
-`import { loader } from 'css-block-loader'`
+```jsx
+import loader from 'css-block-loader'
+Object.assign(styles, loader)
+```
 
 Then use it for styling your elements.
 
